@@ -204,7 +204,7 @@ read -p "Test send email to? Paste your email : " email
     echo "---------------------------"
 
 mail -s "Test Send Email" $email <<< "Just test bro"
-echo -e "$MAGTest email has been sent to email $IJO $email $MAG please check your inbox or your spam folder $IJO"
+echo -e "$MAG Test email has been sent to email $IJO $email $MAG please check your inbox or your spam folder $IJO"
 
 
 echo
