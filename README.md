@@ -5,7 +5,7 @@ Auto installer to install and configure PostFix &amp; Cyrus
 
 CentOS 6 & 7
 ```bash
-$ wget https://raw.githubusercontent.com/teguhmicro/PostFix-Cyrus-Auto-Installer/master/postfix.sh -O postfix.sh
+$ wget https://raw.githubusercontent.com/secgron/PostFix-Cyrus-Auto-Installer/master/postfix.sh -O postfix.sh
 $ bash postfix.sh
 ```
 
